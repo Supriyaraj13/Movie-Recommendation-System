@@ -6,9 +6,9 @@ A content-based Movie Recommendation System built using **Python**, **Scikit-lea
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** https://your-streamlit-link.streamlit.app
+🔗 **Streamlit App:**
 
-> *(Replace with your deployed Streamlit URL after deployment.)*
+ https://movie-recommendation-system-8.streamlit.app/
 
 ---
 
